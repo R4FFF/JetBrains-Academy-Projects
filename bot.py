@@ -34,10 +34,10 @@ def count():
 def test():
     print("Let's test your programming knowledge.")
     print("Why do we use methods?")
-    a = print("1. To repeat a statement multiple times.")
-    b = print("2. To decompose a program into several small subroutines.")
-    c = print("3. To determine the execution time of a program.")
-    d = print("4. To interrupt the execution of a program.# write your code here")
+    print("1. To repeat a statement multiple times.")
+    print("2. To decompose a program into several small subroutines.")
+    print("3. To determine the execution time of a program.")
+    print("4. To interrupt the execution of a program.")
 
     answer = int(input())
 
