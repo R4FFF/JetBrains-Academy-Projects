@@ -1,1 +1,1 @@
-# JetBrains-Academy-Projects
+Phyton exercises
